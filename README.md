@@ -24,14 +24,14 @@ You will also see any lint errors in the console.
 ---
 In the browser you should see something like this
 <p align='center'>
-<a href=""><img height="200" width="500" src="img/localhost.png"></a>&nbsp;&nbsp;
+<img height="200" width="500" src="img/localhost.png">&nbsp;&nbsp;
 
 </p>
 
 ---
 The official website BNA
 <p align='center'>
-<a href=""><img height="200" width="500" src="img/bna.png"></a>&nbsp;&nbsp;
+<img height="200" width="500" src="img/bna.png">&nbsp;&nbsp;
 
 </p>
 
